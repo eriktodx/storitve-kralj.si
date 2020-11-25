@@ -1,6 +1,6 @@
 # storitve-kralj.si
 
-Simple website for my family's company. You can see it in action [here](https://storitve-kralj.si/).
+Simple website for my parents company. You can see it in action [here](https://storitve-kralj.si/).
 
 ## Maintainers
 
