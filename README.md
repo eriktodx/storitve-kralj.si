@@ -2,18 +2,6 @@
 
 Simple website for my family's company. You can see it in action [here](https://storitve-kralj.si/).
 
-## Install
-
-No installation needed. Does not use any kind of framework.
-
-### Before you can start
-
--
-
-### Development
-
--
-
 ## Maintainers
 
 [@erikvimz](https://github.com/erikvimz).
