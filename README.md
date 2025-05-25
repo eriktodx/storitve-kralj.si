@@ -53,7 +53,7 @@ storitve-kralj.si/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/erikvimz/storitve-kralj.si.git
+   git clone https://github.com/eriktodx/storitve-kralj.si.git
    cd storitve-kralj.si
    ```
 
@@ -108,11 +108,11 @@ This project adheres to the [Contributor Covenant](http://contributor-covenant.o
 
 ### Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/erikvimz/storitve-kralj.si/issues/new) on GitHub.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/eriktodx/storitve-kralj.si/issues/new) on GitHub.
 
 ## Maintainers
 
-- **Erik Kralj** ([@erikvimz](https://github.com/erikvimz))
+- **Erik Kralj** ([@eriktodx](https://github.com/eriktodx))
 
 ## License
 
