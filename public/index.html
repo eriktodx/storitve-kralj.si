@@ -360,7 +360,10 @@
     </div>
     <script type="module">
       import { initializeApp } from "https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js";
-      import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.8.1/firebase-analytics.js";
+      import {
+        getAnalytics,
+        logEvent,
+      } from "https://www.gstatic.com/firebasejs/11.8.1/firebase-analytics.js";
 
       const firebaseConfig = {
         apiKey: "AIzaSyCKGUGLcxCbYIT8giSNfVEY675XFhl5YQo",
@@ -374,6 +377,8 @@
 
       const app = initializeApp(firebaseConfig);
       const analytics = getAnalytics(app);
+
+      logEvent(analytics, "page_view", { page_path: window.location.pathname });
     </script>
   </body>
 </html>
